@@ -53,4 +53,6 @@ After cleansing & transforming,
 
 Saved the cleansed and transformed tables as CSV Files. Imported them to Power BI to create visualizations. Modelled the data, added 1 to * (many) connection between the internet sales fact table to the dimension tables.
 
-Then created the Measures in Power BI and then the slicers & and then the charts.
+Then created the Measures in Power BI and then the slicers & and then the charts. 
+
+	•   Insights: Bikes are the product with the highest sales.
