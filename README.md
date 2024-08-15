@@ -1,6 +1,4 @@
-# Sales-Performance-Analysis-SQL-Power-BI-
-
-# Sales Performance Analysis
+# Sales Performance Analysis [SQL | Power BI]
 
 
 
