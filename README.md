@@ -11,6 +11,11 @@
 
 - [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjZmNWY5NWUtNTBmZS00ZWRkLWE4MjMtNWU5MzQ5Nzk0YmRiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
+## Tools Used
+
+![icons8-sql-60](https://github.com/user-attachments/assets/e540be0c-3c1e-4245-a9d4-14796fbb51c3)
+
+![icons8-power-bi-48](https://github.com/user-attachments/assets/a621e814-ce72-44e4-a2e6-0e34eb588881)
 
 ## Dashboard Design
 
