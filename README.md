@@ -44,7 +44,7 @@ Needs from Sales Manager:
 
 
 
-Download the data (AdventureWorksLT2022.bak) from,
+Downloaded the data (AdventureWorksLT2022.bak) from,
  https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
 
 	• Cleansed and Transformed the Data using MS SQL Server Management Studio.
