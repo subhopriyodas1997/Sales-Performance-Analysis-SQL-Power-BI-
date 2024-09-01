@@ -36,7 +36,7 @@ Needs from Sales Manager:
 	•   Follow Sales over time against budget.
 	•   Follow products that sell the most
 	•   Slicers to filter data for each product.
-	•    Filter data for customers by demographics.
+	•   Filter data for customers by demographics.
 	•   Can follow up my customers that buys the most and who we can sell more to
 
 
